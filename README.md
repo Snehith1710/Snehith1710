@@ -1,4 +1,5 @@
-<img src="https://export-download.canva.com/OG_QI/DAEbEpOG_QI/33/0/0001-3124986989.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210618T175127Z&X-Amz-Expires=85798&X-Amz-Signature=06cdf259b9edb3da606e5bd5fc0094c72bac724b1d045931f8486f95dfeca93b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Black%2520Technology%2520LinkedIn%2520Banner.png&response-expires=Sat%2C%2019%20Jun%202021%2017%3A41%3A25%20GMT"/>
+![Black Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/68544805/124880297-c4faa000-dfeb-11eb-9561-36d327bc6538.png)
+
 
 ##  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Glad to see you here!
