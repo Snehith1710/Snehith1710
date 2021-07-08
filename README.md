@@ -3,7 +3,7 @@
 
 ##  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Glad to see you here!
-I'm Snehith mangolu and I'm a **front end developer** with **UI/UX skills** based in hyderabad, India.
+I'm Snehith mangolu and I'm a **Front End Developer** with **UI/UX skills** based in hyderabad, India.
 
 I've been breathing and living web development since 2019, developing quality websites for nice people. I’ve been making every effort trying to perfect what I do and while I’ll never be perfect, I do my best to come close. 
 
