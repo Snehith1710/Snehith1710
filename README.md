@@ -9,7 +9,7 @@ I've been breathing and living web development since 2019, developing quality we
 
 > "People don't care about what you say, they care about what you build." - Mark Zuckerberg
 
-I'm always trying to grow and learn something new. Screen writing and making movies are some of my best interests in spare time. ✍️🎬
+I'm always trying to grow and learn something new. Screen writing and shortfilms are some of my best interests in spare time. ✍️🎬
 
 ### What I'm focusing on 👨‍💻
 I'm actively working on improving my React skills, also focusing on my backend development strengths.
