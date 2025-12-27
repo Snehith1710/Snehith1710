@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/68544805/124880297-c4faa000-dfeb-11eb-9561-36d327bc6538.png)
+<img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/f36f6b2d-df57-4624-92f3-c287ee8ef639" />
 
 
 ##  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
